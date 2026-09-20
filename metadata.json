@@ -1,0 +1,9 @@
+{
+  "name": "WebRTC Interactive Studio",
+  "description": "Interactive WebRTC peer-to-peer playground, live connection visualizer, P2P video & data channel transfer, SDP/ICE analyzer, and AI WebRTC architect.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
